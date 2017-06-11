@@ -1,0 +1,13 @@
+{
+  "name": "webtask-no-deps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"wt create ."
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {},
+  "license": "ISC"
+}
